@@ -1,0 +1,15 @@
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\bin\Debug\net7.0\roman to integer.exe
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\bin\Debug\net7.0\roman to integer.deps.json
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\bin\Debug\net7.0\roman to integer.runtimeconfig.json
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\bin\Debug\net7.0\roman to integer.dll
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\bin\Debug\net7.0\roman to integer.pdb
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.csproj.AssemblyReference.cache
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.AssemblyInfoInputs.cache
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.AssemblyInfo.cs
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.csproj.CoreCompileInputs.cache
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.dll
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\refint\roman to integer.dll
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.pdb
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\roman to integer.genruntimeconfig.cache
+C:\code\learning\github\leetcode\roman to integer\roman to integer\roman to integer\obj\Debug\net7.0\ref\roman to integer.dll
