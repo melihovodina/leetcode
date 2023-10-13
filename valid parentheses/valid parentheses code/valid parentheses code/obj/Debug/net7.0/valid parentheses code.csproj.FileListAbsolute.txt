@@ -1,0 +1,15 @@
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\bin\Debug\net7.0\valid parentheses code.exe
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\bin\Debug\net7.0\valid parentheses code.deps.json
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\bin\Debug\net7.0\valid parentheses code.runtimeconfig.json
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\bin\Debug\net7.0\valid parentheses code.dll
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\bin\Debug\net7.0\valid parentheses code.pdb
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.csproj.AssemblyReference.cache
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.AssemblyInfoInputs.cache
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.AssemblyInfo.cs
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.csproj.CoreCompileInputs.cache
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.dll
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\refint\valid parentheses code.dll
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.pdb
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\valid parentheses code.genruntimeconfig.cache
+C:\code\learning\github\leetcode\valid parentheses\valid parentheses code\valid parentheses code\obj\Debug\net7.0\ref\valid parentheses code.dll
