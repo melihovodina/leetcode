@@ -1,0 +1,15 @@
+C:\code\learning\github\leetcode\two sum short\two sum short\bin\Debug\net7.0\two sum short.exe
+C:\code\learning\github\leetcode\two sum short\two sum short\bin\Debug\net7.0\two sum short.deps.json
+C:\code\learning\github\leetcode\two sum short\two sum short\bin\Debug\net7.0\two sum short.runtimeconfig.json
+C:\code\learning\github\leetcode\two sum short\two sum short\bin\Debug\net7.0\two sum short.dll
+C:\code\learning\github\leetcode\two sum short\two sum short\bin\Debug\net7.0\two sum short.pdb
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.csproj.AssemblyReference.cache
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.AssemblyInfoInputs.cache
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.AssemblyInfo.cs
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.csproj.CoreCompileInputs.cache
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.dll
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\refint\two sum short.dll
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.pdb
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\two sum short.genruntimeconfig.cache
+C:\code\learning\github\leetcode\two sum short\two sum short\obj\Debug\net7.0\ref\two sum short.dll
