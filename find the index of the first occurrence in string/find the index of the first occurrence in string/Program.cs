@@ -6,9 +6,6 @@ public class Solution
 {
     public int StrStr(string haystack, string needle)
     {
-        int k = 0;
-        //if (needle.All(c => haystack.Contains(c)))
-            k = haystack.IndexOf(needle);
-        return k;
+        return haystack.IndexOf(needle);
     }
 }
